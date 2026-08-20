@@ -18,7 +18,7 @@ This project analyzes **1,000 shipment records** across three major logistics pa
 
 ### Data Processing & Transformation
 1. **Business Days Calculation:** Excluded weekends to determine actual transit time:
-   $$\text{Actual Business Days} = \text{NETWORKDAYS}(\text{Dispatch\_Date}, \text{Delivery\_Date})$$
+`Actual Business Days = NETWORKDAYS(Dispatch_Date, Delivery_Date)`
 2. **Zone-Based SLA Targets:** Mapped tier-specific delivery benchmarks:
    * **Metro:** 2 Days
    * **Tier 2:** 4 Days
