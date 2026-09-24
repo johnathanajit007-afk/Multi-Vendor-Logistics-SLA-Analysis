@@ -35,7 +35,7 @@ This project analyzes **1,000 shipment records** across three major logistics pa
 
 ## Executive Dashboard Features
 
-![Power BI Logistics Dashboard](PowerBI_Dashboard.png)
+![PowerBI Logistics Dashboard](PowerBI_Dashboard.png)
 
 * **KPI Cards:** Top-level executive metrics highlighting total counted order shipments (**950 delivered**, 50 pending) and total financial breach penalty claims (**₹42.27K**).
 * **Vendor Performance Chart:** Clustered horizontal bar chart breaking down total penalty values across delivery partners (**EcomExpress**, **BlueDart**, **Delhivery**).
